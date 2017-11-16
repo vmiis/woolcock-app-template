@@ -1,0 +1,9 @@
+{
+	"modules":
+	{
+		"home":	          {"url":"/modules/home.html","name_for_search":"Home page"},
+		"task-1":	      {"url":"/modules/task/task-1.html","name_for_search":"Task 1"},
+		"task-2":	      {"url":"/modules/task/task-2.html","name_for_search":"Task 2"},
+		"task-3":	      {"url":"/modules/task/task-3.html","name_for_search":"Task 3"}
+	}
+}

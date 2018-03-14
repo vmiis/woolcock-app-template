@@ -1,0 +1,9 @@
+{
+    "modules":
+	{
+		"home":	          {"url":"website/modules/home.html","name_for_search":"Home page","color":"#fff"},
+        "task-1":	      {"url":"website/modules/task-1.html","name_for_search":"Link 1","text":"Under Construction"},
+		"task-2":	      {"url":"website/modules/task-2.html","name_for_search":"Link 2","text":"Not Ready"},
+		"task-3":	      {"url":"website/modules/task-3.html","name_for_search":"Link 3","text":"Comming soon..."}
+	}
+}
